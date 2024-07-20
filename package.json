@@ -1,14 +1,18 @@
 {
   "name": "devbills",
   "version": "1.0.0",
-  "description": "",
+  "description": "DevBill, gerenciando sua vida",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx --watch ./src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Matusalem Gabriel",
+    "email": "matu.dev25@gmail.com",
+    "url": "https://github.com/matu-gabriel"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
